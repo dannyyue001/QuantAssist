@@ -1,0 +1,2 @@
+# QuantAssist
+The quant researcher
